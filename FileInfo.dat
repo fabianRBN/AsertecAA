@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="AveCordenadas_v011.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/19/2020 19:55:26</Property>
+      <Property Name="RunDuration">00:00:34</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+</Entities>
