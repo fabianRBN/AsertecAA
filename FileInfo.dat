@@ -2,8 +2,8 @@
 <Entities>
   <Entity Name="AveCordenadas_v011.atmx">
     <Properties>
-      <Property Name="LastRunTime">04/19/2020 20:56:05</Property>
-      <Property Name="RunDuration">00:04:51</Property>
+      <Property Name="LastRunTime">04/22/2020 10:31:44</Property>
+      <Property Name="RunDuration">00:00:00</Property>
       <Property Name="Status">Failed</Property>
     </Properties>
   </Entity>
