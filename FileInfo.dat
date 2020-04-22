@@ -2,9 +2,16 @@
 <Entities>
   <Entity Name="AveCordenadas_v011.atmx">
     <Properties>
-      <Property Name="LastRunTime">04/22/2020 10:31:44</Property>
-      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="LastRunTime">04/22/2020 11:05:45</Property>
+      <Property Name="RunDuration">00:01:13</Property>
       <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SubTareas.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/22/2020 11:08:22</Property>
+      <Property Name="RunDuration">00:00:20</Property>
+      <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
 </Entities>
