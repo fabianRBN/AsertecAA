@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="AgregarPoliza.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/22/2020 22:08:05</Property>
+      <Property Name="RunDuration">00:00:10</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="AgregarPolizaPrincipal.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/23/2020 00:10:33</Property>
+      <Property Name="RunDuration">00:02:36</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="BuscarPersonaPoliza.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/23/2020 00:08:23</Property>
+      <Property Name="RunDuration">00:00:21</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="DatosGenralesPoliza.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/23/2020 00:09:22</Property>
+      <Property Name="RunDuration">00:00:59</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="CoberturaCondicionesPoliza.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/23/2020 00:14:00</Property>
+      <Property Name="RunDuration">00:00:08</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="TasaPoliza.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/23/2020 00:16:05</Property>
+      <Property Name="RunDuration">00:00:30</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>
