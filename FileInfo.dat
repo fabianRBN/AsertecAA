@@ -9,15 +9,15 @@
   </Entity>
   <Entity Name="SubTareas.atmx">
     <Properties>
-      <Property Name="LastRunTime">04/22/2020 22:36:07</Property>
-      <Property Name="RunDuration">00:01:37</Property>
+      <Property Name="LastRunTime">04/23/2020 11:29:54</Property>
+      <Property Name="RunDuration">00:04:27</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="CrearPersona.atmx">
     <Properties>
-      <Property Name="LastRunTime">04/22/2020 22:34:46</Property>
-      <Property Name="RunDuration">00:00:13</Property>
+      <Property Name="LastRunTime">04/23/2020 11:25:42</Property>
+      <Property Name="RunDuration">00:00:12</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
