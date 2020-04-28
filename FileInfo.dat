@@ -9,22 +9,36 @@
   </Entity>
   <Entity Name="SubTareas.atmx">
     <Properties>
-      <Property Name="LastRunTime">04/24/2020 12:06:47</Property>
-      <Property Name="RunDuration">00:06:32</Property>
-      <Property Name="Status">Complete</Property>
+      <Property Name="LastRunTime">04/27/2020 21:32:46</Property>
+      <Property Name="RunDuration">00:06:22</Property>
+      <Property Name="Status">Failed</Property>
     </Properties>
   </Entity>
   <Entity Name="CrearPersona.atmx">
     <Properties>
-      <Property Name="LastRunTime">04/24/2020 12:02:10</Property>
-      <Property Name="RunDuration">00:01:50</Property>
+      <Property Name="LastRunTime">04/27/2020 21:26:42</Property>
+      <Property Name="RunDuration">00:00:11</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="TareaPrincipal.atmx">
     <Properties>
-      <Property Name="LastRunTime">04/24/2020 12:06:47</Property>
-      <Property Name="RunDuration">00:07:05</Property>
+      <Property Name="LastRunTime">04/27/2020 21:32:46</Property>
+      <Property Name="RunDuration">00:07:13</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="RecopilacionData.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/27/2020 16:57:00</Property>
+      <Property Name="RunDuration">00:00:16</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="fechaTest.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/27/2020 16:48:27</Property>
+      <Property Name="RunDuration">00:00:10</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="CoberturaCondicionesPolizaImportarPlantilla.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/24/2020 15:31:31</Property>
+      <Property Name="RunDuration">00:00:19</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>

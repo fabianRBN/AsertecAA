@@ -9,29 +9,29 @@
   </Entity>
   <Entity Name="AgregarPolizaPrincipal.atmx">
     <Properties>
-      <Property Name="LastRunTime">04/24/2020 12:06:47</Property>
-      <Property Name="RunDuration">00:04:14</Property>
-      <Property Name="Status">Complete</Property>
+      <Property Name="LastRunTime">04/27/2020 21:32:45</Property>
+      <Property Name="RunDuration">00:05:53</Property>
+      <Property Name="Status">Failed</Property>
     </Properties>
   </Entity>
   <Entity Name="BuscarPersonaPoliza.atmx">
     <Properties>
-      <Property Name="LastRunTime">04/24/2020 12:02:59</Property>
+      <Property Name="LastRunTime">04/27/2020 21:27:16</Property>
       <Property Name="RunDuration">00:00:19</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="DatosGenralesPoliza.atmx">
     <Properties>
-      <Property Name="LastRunTime">04/24/2020 12:03:56</Property>
-      <Property Name="RunDuration">00:00:57</Property>
+      <Property Name="LastRunTime">04/27/2020 21:28:25</Property>
+      <Property Name="RunDuration">00:01:09</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="CoberturaCondicionesPoliza.atmx">
     <Properties>
-      <Property Name="LastRunTime">04/24/2020 12:04:30</Property>
-      <Property Name="RunDuration">00:00:26</Property>
+      <Property Name="LastRunTime">04/27/2020 21:29:01</Property>
+      <Property Name="RunDuration">00:00:29</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
@@ -44,8 +44,8 @@
   </Entity>
   <Entity Name="ImportarVehiculo.atmx">
     <Properties>
-      <Property Name="LastRunTime">04/24/2020 12:05:39</Property>
-      <Property Name="RunDuration">00:00:28</Property>
+      <Property Name="LastRunTime">04/26/2020 17:02:30</Property>
+      <Property Name="RunDuration">00:00:24</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
@@ -54,6 +54,20 @@
       <Property Name="LastRunTime">04/24/2020 12:06:29</Property>
       <Property Name="RunDuration">00:00:45</Property>
       <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ImportarVehiculoManual.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/27/2020 17:12:59</Property>
+      <Property Name="RunDuration">00:01:40</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="AgregarExtras.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/26/2020 20:09:40</Property>
+      <Property Name="RunDuration">00:00:10</Property>
+      <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
 </Entities>
