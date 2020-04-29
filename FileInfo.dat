@@ -30,8 +30,8 @@
   </Entity>
   <Entity Name="RecopilacionData.atmx">
     <Properties>
-      <Property Name="LastRunTime">04/27/2020 16:57:00</Property>
-      <Property Name="RunDuration">00:00:16</Property>
+      <Property Name="LastRunTime">04/29/2020 13:33:08</Property>
+      <Property Name="RunDuration">00:00:25</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
