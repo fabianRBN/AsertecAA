@@ -9,22 +9,22 @@
   </Entity>
   <Entity Name="SubTareas.atmx">
     <Properties>
-      <Property Name="LastRunTime">04/28/2020 20:56:19</Property>
-      <Property Name="RunDuration">00:05:34</Property>
+      <Property Name="LastRunTime">04/29/2020 09:26:16</Property>
+      <Property Name="RunDuration">00:00:39</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="CrearPersona.atmx">
     <Properties>
-      <Property Name="LastRunTime">04/28/2020 20:50:58</Property>
-      <Property Name="RunDuration">00:00:11</Property>
+      <Property Name="LastRunTime">04/29/2020 09:25:56</Property>
+      <Property Name="RunDuration">00:00:16</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="TareaPrincipal.atmx">
     <Properties>
-      <Property Name="LastRunTime">04/28/2020 20:56:45</Property>
-      <Property Name="RunDuration">00:06:24</Property>
+      <Property Name="LastRunTime">04/29/2020 09:26:16</Property>
+      <Property Name="RunDuration">00:01:09</Property>
       <Property Name="Status">Failed</Property>
     </Properties>
   </Entity>
@@ -39,6 +39,13 @@
     <Properties>
       <Property Name="LastRunTime">04/27/2020 16:48:27</Property>
       <Property Name="RunDuration">00:00:10</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="GestionFirefox.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/29/2020 09:25:09</Property>
+      <Property Name="RunDuration">00:00:01</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>

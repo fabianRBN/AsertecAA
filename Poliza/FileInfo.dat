@@ -9,23 +9,23 @@
   </Entity>
   <Entity Name="AgregarPolizaPrincipal.atmx">
     <Properties>
-      <Property Name="LastRunTime">04/28/2020 20:56:19</Property>
-      <Property Name="RunDuration">00:05:10</Property>
-      <Property Name="Status">Complete</Property>
+      <Property Name="LastRunTime">04/29/2020 09:26:16</Property>
+      <Property Name="RunDuration">00:00:09</Property>
+      <Property Name="Status">Failed</Property>
     </Properties>
   </Entity>
   <Entity Name="BuscarPersonaPoliza.atmx">
     <Properties>
-      <Property Name="LastRunTime">04/28/2020 20:51:31</Property>
-      <Property Name="RunDuration">00:00:19</Property>
-      <Property Name="Status">Complete</Property>
+      <Property Name="LastRunTime">04/29/2020 09:26:15</Property>
+      <Property Name="RunDuration">00:00:05</Property>
+      <Property Name="Status">Failed</Property>
     </Properties>
   </Entity>
   <Entity Name="DatosGenralesPoliza.atmx">
     <Properties>
-      <Property Name="LastRunTime">04/28/2020 20:52:40</Property>
-      <Property Name="RunDuration">00:01:08</Property>
-      <Property Name="Status">Complete</Property>
+      <Property Name="LastRunTime">04/29/2020 09:26:15</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Failed</Property>
     </Properties>
   </Entity>
   <Entity Name="CoberturaCondicionesPoliza.atmx">
