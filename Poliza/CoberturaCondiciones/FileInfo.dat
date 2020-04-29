@@ -2,8 +2,8 @@
 <Entities>
   <Entity Name="CoberturaCondicionesPolizaImportarPlantilla.atmx">
     <Properties>
-      <Property Name="LastRunTime">04/24/2020 15:31:31</Property>
-      <Property Name="RunDuration">00:00:19</Property>
+      <Property Name="LastRunTime">04/28/2020 20:54:00</Property>
+      <Property Name="RunDuration">00:00:18</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
