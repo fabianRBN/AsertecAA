@@ -9,29 +9,29 @@
   </Entity>
   <Entity Name="SubTareas.atmx">
     <Properties>
-      <Property Name="LastRunTime">04/29/2020 09:26:16</Property>
-      <Property Name="RunDuration">00:00:39</Property>
-      <Property Name="Status">Complete</Property>
+      <Property Name="LastRunTime">05/01/2020 11:17:34</Property>
+      <Property Name="RunDuration">00:03:53</Property>
+      <Property Name="Status">Failed</Property>
     </Properties>
   </Entity>
   <Entity Name="CrearPersona.atmx">
     <Properties>
-      <Property Name="LastRunTime">04/29/2020 09:25:56</Property>
-      <Property Name="RunDuration">00:00:16</Property>
+      <Property Name="LastRunTime">05/01/2020 11:15:47</Property>
+      <Property Name="RunDuration">00:02:04</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="TareaPrincipal.atmx">
     <Properties>
-      <Property Name="LastRunTime">04/29/2020 09:26:16</Property>
-      <Property Name="RunDuration">00:01:09</Property>
+      <Property Name="LastRunTime">05/01/2020 11:17:42</Property>
+      <Property Name="RunDuration">00:04:51</Property>
       <Property Name="Status">Failed</Property>
     </Properties>
   </Entity>
   <Entity Name="RecopilacionData.atmx">
     <Properties>
-      <Property Name="LastRunTime">04/29/2020 13:33:08</Property>
-      <Property Name="RunDuration">00:00:25</Property>
+      <Property Name="LastRunTime">05/01/2020 11:13:14</Property>
+      <Property Name="RunDuration">00:00:21</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
@@ -44,8 +44,15 @@
   </Entity>
   <Entity Name="GestionFirefox.atmx">
     <Properties>
-      <Property Name="LastRunTime">04/29/2020 09:25:09</Property>
+      <Property Name="LastRunTime">05/01/2020 11:12:53</Property>
       <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SincronizarMatrizMadre.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/30/2020 11:47:08</Property>
+      <Property Name="RunDuration">00:00:08</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
