@@ -9,57 +9,57 @@
   </Entity>
   <Entity Name="AgregarPolizaPrincipal.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/12/2020 13:17:44</Property>
-      <Property Name="RunDuration">00:08:07</Property>
+      <Property Name="LastRunTime">05/15/2020 11:33:39</Property>
+      <Property Name="RunDuration">00:14:36</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="BuscarPersonaPoliza.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/12/2020 13:10:02</Property>
-      <Property Name="RunDuration">00:00:21</Property>
+      <Property Name="LastRunTime">05/15/2020 11:19:29</Property>
+      <Property Name="RunDuration">00:00:22</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="DatosGenralesPoliza.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/12/2020 13:11:31</Property>
-      <Property Name="RunDuration">00:00:54</Property>
+      <Property Name="LastRunTime">05/15/2020 11:20:52</Property>
+      <Property Name="RunDuration">00:00:57</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="CoberturaCondicionesPoliza.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/12/2020 13:13:25</Property>
-      <Property Name="RunDuration">00:01:45</Property>
+      <Property Name="LastRunTime">05/15/2020 11:22:24</Property>
+      <Property Name="RunDuration">00:01:22</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="TasaPoliza.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/12/2020 13:14:15</Property>
-      <Property Name="RunDuration">00:00:42</Property>
-      <Property Name="Status">Complete</Property>
+      <Property Name="LastRunTime">05/17/2020 22:03:57</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Failed</Property>
     </Properties>
   </Entity>
   <Entity Name="ImportarVehiculo.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/12/2020 13:16:48</Property>
-      <Property Name="RunDuration">00:02:14</Property>
+      <Property Name="LastRunTime">05/15/2020 11:32:40</Property>
+      <Property Name="RunDuration">00:06:20</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="DocumentosPoliza.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/12/2020 13:17:32</Property>
-      <Property Name="RunDuration">00:00:35</Property>
+      <Property Name="LastRunTime">05/15/2020 11:33:27</Property>
+      <Property Name="RunDuration">00:00:38</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="ImportarVehiculoManual.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/12/2020 13:16:48</Property>
-      <Property Name="RunDuration">00:02:04</Property>
+      <Property Name="LastRunTime">05/15/2020 11:32:40</Property>
+      <Property Name="RunDuration">00:06:09</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>

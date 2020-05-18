@@ -9,28 +9,28 @@
   </Entity>
   <Entity Name="SubTareas.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/12/2020 13:17:45</Property>
-      <Property Name="RunDuration">00:08:42</Property>
-      <Property Name="Status">Complete</Property>
+      <Property Name="LastRunTime">05/17/2020 22:46:44</Property>
+      <Property Name="RunDuration">00:00:46</Property>
+      <Property Name="Status">Failed</Property>
     </Properties>
   </Entity>
   <Entity Name="CrearPersona.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/12/2020 13:09:27</Property>
-      <Property Name="RunDuration">00:00:22</Property>
-      <Property Name="Status">Complete</Property>
+      <Property Name="LastRunTime">05/17/2020 22:46:30</Property>
+      <Property Name="RunDuration">00:00:30</Property>
+      <Property Name="Status">Failed</Property>
     </Properties>
   </Entity>
   <Entity Name="TareaPrincipal.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/12/2020 13:19:08</Property>
-      <Property Name="RunDuration">00:11:20</Property>
+      <Property Name="LastRunTime">05/18/2020 09:08:21</Property>
+      <Property Name="RunDuration">00:00:04</Property>
       <Property Name="Status">Failed</Property>
     </Properties>
   </Entity>
   <Entity Name="RecopilacionData.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/12/2020 13:08:28</Property>
+      <Property Name="LastRunTime">05/13/2020 16:56:19</Property>
       <Property Name="RunDuration">00:00:30</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
@@ -44,43 +44,43 @@
   </Entity>
   <Entity Name="GestionFirefox.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/12/2020 13:07:56</Property>
-      <Property Name="RunDuration">00:00:07</Property>
+      <Property Name="LastRunTime">05/18/2020 09:08:19</Property>
+      <Property Name="RunDuration">00:00:02</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="SincronizarMatrizMadre.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/10/2020 23:44:54</Property>
-      <Property Name="RunDuration">00:00:28</Property>
+      <Property Name="LastRunTime">05/17/2020 18:20:11</Property>
+      <Property Name="RunDuration">00:00:30</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="Login.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/12/2020 13:08:49</Property>
-      <Property Name="RunDuration">00:00:16</Property>
+      <Property Name="LastRunTime">05/17/2020 22:45:50</Property>
+      <Property Name="RunDuration">00:00:15</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="InterrupcionTarea.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/10/2020 23:44:23</Property>
-      <Property Name="RunDuration">00:00:26</Property>
-      <Property Name="Status">Complete</Property>
+      <Property Name="LastRunTime">05/13/2020 13:10:03</Property>
+      <Property Name="RunDuration">00:00:06</Property>
+      <Property Name="Status">Failed</Property>
     </Properties>
   </Entity>
   <Entity Name="EdicionPdf.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/12/2020 13:18:45</Property>
-      <Property Name="RunDuration">00:01:00</Property>
+      <Property Name="LastRunTime">05/15/2020 11:34:59</Property>
+      <Property Name="RunDuration">00:01:20</Property>
       <Property Name="Status">Failed</Property>
     </Properties>
   </Entity>
   <Entity Name="BorradoMatrices.atmx">
     <Properties>
-      <Property Name="LastRunTime">05/11/2020 09:56:18</Property>
-      <Property Name="RunDuration">00:00:23</Property>
+      <Property Name="LastRunTime">05/17/2020 18:03:03</Property>
+      <Property Name="RunDuration">00:00:35</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
